@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aastha_0303" target="blank"><img src="https://img.shields.io/twitter/follow/aastha_0303?logo=twitter&style=for-the-badge" alt="aastha_0303" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS, NodeJS, Express**
+- 🌱 I’m currently learning **NextJS, NodeJS, ExpressJS**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aasthashah24/](https://www.linkedin.com/in/aasthashah24/)
 
